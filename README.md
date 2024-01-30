@@ -1,1 +1,1 @@
-For domain enumeration.
+**Script for domain enumeration**
